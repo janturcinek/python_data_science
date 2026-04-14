@@ -1,0 +1,16 @@
+ts,sensor_id,quantity,value,unit
+2024-01-15T08:00:00.000Z,motor-01,vibration_rms,1.23,mm/s
+2024-01-15T08:00:01.000Z,motor-01,vibration_rms,1.31,mm/s
+2024-01-15T08:00:02.000Z,motor-01,vibration_rms,1.19,mm/s
+2024-01-15T08:00:03.000Z,motor-01,vibration_rms,1.27,mm/s
+2024-01-15T08:00:04.000Z,motor-01,vibration_rms,1.35,mm/s
+2024-01-15T08:00:00.000Z,motor-01,temperature,45.2,degC
+2024-01-15T08:00:01.000Z,motor-01,temperature,45.4,degC
+2024-01-15T08:00:02.000Z,motor-01,temperature,45.3,degC
+2024-01-15T08:00:03.000Z,motor-01,temperature,45.5,degC
+2024-01-15T08:00:04.000Z,motor-01,temperature,45.6,degC
+2024-01-15T08:00:00.000Z,motor-01,current,10.1,A
+2024-01-15T08:00:01.000Z,motor-01,current,10.3,A
+2024-01-15T08:00:02.000Z,motor-01,current,10.0,A
+2024-01-15T08:00:03.000Z,motor-01,current,10.2,A
+2024-01-15T08:00:04.000Z,motor-01,current,10.4,A
